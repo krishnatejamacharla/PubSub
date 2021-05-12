@@ -4,3 +4,6 @@ welcome to krishanteja kitchen
 2.sambar
 3.biriyani
 4.egg curry
+
+5.beans
+6.pizza
